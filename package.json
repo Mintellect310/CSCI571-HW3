@@ -1,0 +1,11 @@
+{
+    "name": "webtech-hw3-app",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node backend/server.js",
+        "preinstall": "cd frontend && npm install && npm run build"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
