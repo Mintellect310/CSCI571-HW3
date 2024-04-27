@@ -1,0 +1,10 @@
+.close-icon::before {
+    content: '×'; /* Unicode character for 'x' */
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 0.8rem;
+}
+
+.card-bg {
+    background-color: #fafafa;
+}

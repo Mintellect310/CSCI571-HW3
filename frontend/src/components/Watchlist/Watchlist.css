@@ -1,0 +1,12 @@
+.px-lg-9 {
+    padding-left: 9rem !important;
+    padding-right: 9rem !important;
+}
+
+.alert-center {
+    text-align: center;
+}
+
+.card-pointer {
+    cursor: pointer;
+}
